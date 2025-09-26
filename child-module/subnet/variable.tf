@@ -1,0 +1,3 @@
+variable "subnet-map-child" {
+
+}

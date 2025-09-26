@@ -1,0 +1,3 @@
+variable "nsg-map-child" {
+  
+}

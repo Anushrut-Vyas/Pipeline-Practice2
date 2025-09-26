@@ -1,0 +1,3 @@
+variable "nic-map-child" {
+  
+}
